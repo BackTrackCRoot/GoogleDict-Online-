@@ -1,0 +1,7 @@
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\bin\Release\GoogleDict.exe
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\bin\Release\GoogleDict.pdb
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Release\GoogleDict.Form1.resources
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Release\GoogleDict.Properties.Resources.resources
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Release\GoogleDict.csproj.GenerateResource.Cache
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Release\GoogleDict.exe
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Release\GoogleDict.pdb

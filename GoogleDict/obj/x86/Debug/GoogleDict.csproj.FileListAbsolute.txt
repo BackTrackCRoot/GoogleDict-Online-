@@ -1,0 +1,8 @@
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\bin\Debug\GoogleDict.exe
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\bin\Debug\GoogleDict.pdb
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.Form1.resources
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.Properties.Resources.resources
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.csproj.GenerateResource.Cache
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.exe
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.pdb
+C:\Users\CRoot\Desktop\GoogleDict\GoogleDict\obj\x86\Debug\GoogleDict.csprojResolveAssemblyReference.cache
